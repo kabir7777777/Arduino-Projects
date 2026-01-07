@@ -1,0 +1,2 @@
+Arduino-based traffic light controller with North–South and East–West signals. Features timed light cycles, pedestrian crossing buttons using 
+analog input,and a maintenance mode with flashing lights. Implements non-blocking timing and state-based logic using Millis function.

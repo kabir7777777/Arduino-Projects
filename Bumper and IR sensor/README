@@ -1,0 +1,2 @@
+Arduino robot with two operating modes: bumper-based obstacle avoidance and IR line following.
+Uses an L293D motor driver, PWM motor control, and a toggle switch to dynamically switch modes with modular motor control functions.
